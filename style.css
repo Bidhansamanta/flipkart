@@ -1,0 +1,148 @@
+*{
+    margin:0;
+    font-family: Arial;
+    border:border-box;
+}
+
+.navbar{
+    height:70px;
+    background-color: rgb(231, 211, 185);
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position:sticky;
+}
+
+.nav-logo{
+    height:40px;
+    width: 160px;
+}
+
+.logo{
+    background-image: url("flipkart.svg");
+    height:40px;
+    width: 160px;
+}
+
+
+.nav-search{
+    display:flex;
+    align-items: center;
+    padding: 8px 8px 8px 12px;
+    background-color: rgb(166, 188, 188);
+}
+
+.search-icon{
+     height:25px;
+     width:25px;
+}
+.search-input{
+    width:470px;
+    height:40px;
+    border-radius: 5px;
+    border:none;
+}
+
+.nav-login{
+    height:40px;
+    width:530px;
+    background-color: rgb(231, 211, 185);
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.add-login{
+    height:40px;
+    width:120px;
+    background-color: rgb(231, 211, 185);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+.first-user{
+    padding-top:10px;
+    display: flex;
+    justify-content: space-evenly;
+ 
+      
+}
+.box-image{
+    height:130px;
+    width: 160px;
+   background-size: cover;
+   text-align: end;
+}
+
+.box-image p{
+    text-align:center;  
+}
+
+.hero-section{
+    padding-top:20px;
+    background-image: url("hero.webp");
+    height:245px;
+}
+
+.shop-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: pink;
+}
+
+.box{
+    height:280px;
+    width:31%;
+    padding-top:10px;
+
+   
+}
+
+.box1-image{
+    height:250px;
+    background-size: cover;
+
+}
+
+.foot-panel{
+    height:350px;
+    background-color: black;
+    color:white;
+     display:flex;
+     justify-content: space-evenly;
+}
+
+
+ul a{
+    display:block;
+    font-size:o.85rem;
+    margin-top:10px;
+}
+
+ul p{
+    color:#878787;
+    margin-top:50px;
+}
+
+
+#id1{
+    color:#878787;
+    padding-bottom:10px;
+}
+
+.bid{
+     margin-right:15px;
+}
+
+
+
+
+
+    
+    
+
+    
